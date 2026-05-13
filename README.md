@@ -180,6 +180,11 @@ void Error_Handler(void)
 ## Output screen shots of Serial port utility :
  
  <img width="1195" height="672" alt="output" src="https://github.com/user-attachments/assets/0d373be4-a133-406f-8341-c873211d2c9f" />
+
+ ### STM32 Device:
  
+ <img width="1280" height="783" alt="device" src="https://github.com/user-attachments/assets/496a162d-ce8a-40f6-b3a1-542dc1519840" />
+
+
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
