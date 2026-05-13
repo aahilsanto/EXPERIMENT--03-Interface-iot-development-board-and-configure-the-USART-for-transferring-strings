@@ -1,12 +1,12 @@
-# EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
+# EXPERIMENT 03 INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 
-**DATE:**
+**DATE:** 13-05-2026
 
-**NAME:**
+**NAME:** Ahil Santo A
 
-**ROLL NO:**
+**ROLL NO:** 212224040018
 
-**DEPARTMENT:**
+**DEPARTMENT:** Computer Science and Engineering
 
 ## Aim:
 
@@ -93,7 +93,7 @@ UART transmits and receives data asynchronously, meaning there is no shared cloc
 
 
 
-## Output screen shots of Serial port utility   :
+## Output screen shots of Serial port utility :
  
  
  
